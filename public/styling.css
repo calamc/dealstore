@@ -1,0 +1,32 @@
+body {
+  margin-top: 75px;
+  margin-bottom: 25px;
+}
+
+.container {
+  max-width: 960px;
+  width: auto;
+  padding: 0 20px;
+}
+
+.container .footer-text {
+  margin:10px 5px;
+}
+
+.badge {
+  background-color: #c0392b;
+}
+
+.myImage {
+  text-align: center;
+}
+
+button.readmoreLink {
+  background: none;
+  border: none;
+  outline-offset: 0;
+  outline: none;
+  padding: 5px;
+  margin:0;
+  color: #blue;
+}

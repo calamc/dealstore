@@ -1,0 +1,11 @@
+Project directory: cd C:\Users\Cmac\Documents\prj400r\dealstorev2
+
+Start: npm start
+
+Start server: nodemon
+
+Start database (Make sure robomongo is connected): cd C:\Program Files\MongoDB\Server\3.4\bin
+
+>> The run: mongod --port 27017 --dbpath C:\Mongo\db
+
+>> Watch files: webpack

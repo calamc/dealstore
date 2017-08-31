@@ -32,7 +32,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 // MONGOOSE FOR THE API FOR DEALS
 var mongoose = require('mongoose');
 mongoose.connect('mongodb://<cathal>:<password10>@ds151117.mlab.com:51117/heroku_dvqzsrrg');
-mongodb://<dbuser>:<dbpassword>@ds151117.mlab.com:51117/heroku_dvqzsrrg
+//mongodb://<dbuser>:<dbpassword>@ds151117.mlab.com:51117/heroku_dvqzsrrg
 //mongoose.connect('mongodb://localhost:27017/myDB');
 
 // Holda connection
